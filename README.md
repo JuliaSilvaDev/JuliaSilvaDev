@@ -30,7 +30,7 @@
 <h3>Soft Skills:</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,aws,angular,linux" />
+    <img src="https://skillicons.dev/icons?i=git,java,aws,angular" />
   </a>
 </p>
 </div>
