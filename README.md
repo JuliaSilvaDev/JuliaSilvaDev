@@ -19,19 +19,26 @@
 
 <div style="display: inline_block"><br>
 <h3>Soft Skills:</h3>
-<img align="center" alt="Julia-html" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img align="center" alt="Julia-css" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-<img align="center" alt="Julia-git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-<img align="center" alt="Julia-js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img align="center" alt="Julia-react" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">  
-<img align="center" alt="Julia-canva" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
-<img align="center" alt="Julia-figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,github,react,figma,vscode" />
+  </a>
+</p>
+</div>
+
+<div style="display: inline_block">
+<h3>Soft Skills:</h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,java,aws,angular,linux" />
+  </a>
+</p>
 </div>
  
  ##
  <div style="display: inline_block" align="center">
    <h3>Link para contato:</h3>
-   <a href="https://linktr.ee/julia_silva_" ><img src="https://img.shields.io/badge/Linktree-10EC0C?style=for-the-badge&logo=linketree&logoColor=white"></a>
+   <a href="https://linktr.ee/julia_silva_" ><img src="https://img.shields.io/badge/Linktree-038B9E?style=for-the-badge&logo=linketree&logoColor=white"></a>
  </div>
  
  ##
