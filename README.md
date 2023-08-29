@@ -1,10 +1,18 @@
+<div align="center">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=E4508C" />
+<img src="src/imagens/logo.svg" width="500px">
+</div>
+<br>
+<div align="center">
+
+
 # Oii Eu sou a Julia Silva, iniciante no meio da tecnologia!
 
 
 <div>
 <a href="#">
-<img height="52%" src="https://github-readme-stats.vercel.app/api?username=JuliaSilvabr&show_icons=true&theme=radical" />
-<img height="48%" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaSilvabr&show_icons=true&theme=radical&layout=compact" />
+<img height="52%" src="https://github-readme-stats.vercel.app/api?username=JuliaSilvaDev&show_icons=true&theme=radical" />
+<img height="48%" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaSilvaDev&show_icons=true&theme=radical&layout=compact" />
 </div>
 
 <div style="display: inline_block"><br>
