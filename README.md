@@ -42,9 +42,8 @@
  </div>
  
  ##
- <div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=038B9E" />
-</div>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=038B9E&section=footer" />
+
               
 
           
