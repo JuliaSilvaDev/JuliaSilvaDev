@@ -1,9 +1,7 @@
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=E4508C" />
-<img src="src/imagens/logo.svg" width="500px">
 </div>
-<br>
-<div align="center">
+
 
 
 # Oii Eu sou a Julia Silva, iniciante no meio da tecnologia!
