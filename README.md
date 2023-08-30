@@ -27,7 +27,7 @@
 </div>
 
 <div style="display: inline_block">
-<h3>Soft Skills:</h3>
+<h3>Studying this moment:</h3>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,java,aws,angular" />
