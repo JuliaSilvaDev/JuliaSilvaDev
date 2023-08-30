@@ -2,13 +2,13 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=038B9E" />
 </div>
 
+<br/>
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&pause=1000&color=A1A1A8&center=true&vCenter=true&width=435&lines=Seja+Bem-+Vindo(a)!!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&pause=1000&color=A1A1A8&center=true&vCenter=true&width=435&lines=Seja+Bem+-+Vindo(a)!!" alt="Typing SVG" /></a>
 </div>
-
-<div align="center">
-<h1>Olá, me chamo Julia Maria e sou iniciante no meio da tecnologia!</h1>
-</div>
+<br/>
+<br/>
+<br/>
 
 
 <div align="center">
