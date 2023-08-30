@@ -38,7 +38,7 @@
  ##
  <div style="display: inline_block" align="center">
    <h3>Link para contato:</h3>
-   <a href="https://linktr.ee/julia_silva_" ><img src="https://img.shields.io/badge/Linktree-038B9E?style=for-the-badge&logo=linketree&logoColor=white"></a>
+   <a href="https://linktr.ee/julia_silva_"><img width="11%" src="https://img.shields.io/badge/Linktree-038B9E?style=for-the-badge&logo=linketree&logoColor=white"></a>
  </div>
  
  ##
